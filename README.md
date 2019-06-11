@@ -1,9 +1,9 @@
 # fx_prediction
 Predict fx and earn 5 oku.
 
-# Dataset
+## Dataset
 
-## Introduction
+### Introduction
 
 <u>**what is the tickdata?**</u>
 
@@ -26,11 +26,11 @@ A tick-by-tick market data which is characterized by each single 'event' (transa
 * Latest data of 1 hour ago is available
 * Highly reliable data
 
-## How to download
+### How to download
 
 [Here](https://github.com/giuse88/duka) is the all things.
 
-### References
+#### References
 
 * [High frequency data](https://en.wikipedia.org/wiki/High_frequency_data)
 * [MetaTrader 5](https://www.metatrader5.com/en)
