@@ -1,4 +1,4 @@
 *.csv
-*.ipynb
+*.bin
 __pycache__
-.ipy*
+tmp
