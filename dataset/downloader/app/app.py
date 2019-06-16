@@ -4,9 +4,10 @@ import time
 from collections import deque
 from datetime import timedelta, date
 
-from ..core import decompress, fetch_day, Logger
-from ..core.csv_dumper import CSVDumper
-from ..core.utils import is_debug_mode, TimeFrame
+from core.processor import decompress
+from core.fetch import fetch_day
+from core.utils import Logger, is_debug_mode, TimeFrame
+from core.csv_dumper import CSVDumper
 
 SATURDAY = 5
 day_counter = 0

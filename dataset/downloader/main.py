@@ -3,9 +3,8 @@
 import argparse
 from datetime import date, timedelta
 
-from duka.app import app
-from duka.core import valid_date, set_up_signals
-from duka.core.utils import valid_timeframe, TimeFrame
+from app.app import app
+from core.utils import valid_timeframe, TimeFrame, valid_date, set_up_signals
 
 VERSION = '0.2.1'
 
