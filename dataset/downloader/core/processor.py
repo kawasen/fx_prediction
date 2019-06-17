@@ -62,7 +62,7 @@ def normalize(symbol, day, ticks):
         date = datetime(day.year, day.month, day.day) + timedelta(milliseconds=time)
         # date.replace(tzinfo=datetime.tzinfo("UTC"))
         point = 100000
-        if symbol.lower() in ['usdrub', 'xagusd', 'xauusd', 'usdjpy', 'eurjpy']:
+        if symbol.lower() in ['usdrub', 'xagusd', 'xauusd', 'usdjpy', 'eurjpy', 'chfjpy']:
             point = 1000
         return date, ask / point, bid / point, round(volume_ask * 1000000), round(volume_bid * 1000000)
 

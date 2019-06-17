@@ -2,12 +2,12 @@
 
 **[Download](https://drive.google.com/drive/folders/1Sm59gPGBOM-nzssWRtXPY8qZq3Hz1IDa?usp=sharing)**
 
-/   |JPY     |USD     |EUR     |CFH     |CAD
+/  |JPY     |USD     |EUR     |CHF     |CAD
 ---|--------|--------|--------|--------|-----------
-JPY|-       |&#10004;|&#10004;|        |
-USD|-       |-       |&#10004;|        |
-EUR|-       |-       |-       |        |
-CFH|-       |-       |-       |-       |
+JPY|-       |&#10004;|&#10004;|&#10004;|
+USD|-       |-       |&#10004;|&#10004;|
+EUR|-       |-       |-       |&#10004;|
+CHF|-       |-       |-       |-       |
 CAD|-       |-       |-       |-       |-
 
 ## Binary Format
